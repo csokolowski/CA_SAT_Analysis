@@ -1,0 +1,421 @@
+,dname,dailyexpense,leatype
+0,Alameda Unified,13070.34,Unified
+1,Albany City Unified,13150.18,Unified
+2,Berkeley Unified,17042.57,Unified
+3,Castro Valley Unified,11435.98,Unified
+4,Emery Unified,18339.19,Unified
+5,Fremont Unified,11251.29,Unified
+6,Hayward Unified,14234.14,Unified
+7,Livermore Valley Joint Unified,12069.94,Unified
+9,Newark Unified,12026.28,Unified
+10,New Haven Unified,12396.99,Unified
+11,Oakland Unified,16405.57,Unified
+12,Piedmont City Unified,16833.14,Unified
+13,San Leandro Unified,12590.25,Unified
+14,San Lorenzo Unified,13451.42,Unified
+15,Dublin Unified,10411.11,Unified
+16,Pleasanton Unified,11402.3,Unified
+17,Sunol Glen Unified,12908.36,Unified
+18,Alpine County Unified,43009.0,Unified
+19,Amador County Unified,9560.14,Unified
+21,Biggs Unified,11889.24,Unified
+22,Chico Unified,12377.29,Unified
+23,Durham Unified,11157.05,Unified
+28,Oroville Union High,14061.8,High
+30,Paradise Unified,12529.36,Unified
+33,Gridley Unified,11796.67,Unified
+34,Bret Harte Union High,18369.99,High
+35,Calaveras Unified,12070.64,Unified
+38,Colusa Unified,11144.3,Unified
+39,Maxwell Unified,13014.75,Unified
+40,Pierce Joint Unified,10673.06,Unified
+41,Williams Unified,12711.57,Unified
+42,Acalanes Union High,14765.41,High
+43,Antioch Unified,13563.04,Unified
+47,John Swett Unified,12691.46,Unified
+50,Liberty Union High,11719.64,High
+51,Martinez Unified,11498.08,Unified
+53,Mt. Diablo Unified,12910.99,Unified
+56,Pittsburg Unified,13132.49,Unified
+57,West Contra Costa Unified,13509.02,Unified
+58,San Ramon Valley Unified,10935.97,Unified
+60,Del Norte County Unified,13173.89,Unified
+63,El Dorado Union High,12340.81,High
+67,Lake Tahoe Unified,13379.55,Unified
+75,Black Oak Mine Unified,12028.07,Unified
+80,Clovis Unified,10872.13,Unified
+81,Coalinga-Huron Unified,13609.25,Unified
+82,Fowler Unified,12662.95,Unified
+83,Fresno Unified,13640.9,Unified
+85,Kingsburg Joint Union High,12529.68,High
+86,Kings Canyon Joint Unified,12915.69,Unified
+87,Laton Joint Unified,15300.01,Unified
+91,Parlier Unified,13088.4,Unified
+94,Sanger Unified,12172.86,Unified
+95,Selma Unified,13765.68,Unified
+99,Firebaugh-Las Deltas Unified,13945.53,Unified
+100,Central Unified,11678.23,Unified
+101,Kerman Unified,11061.71,Unified
+102,Mendota Unified,12017.04,Unified
+103,Golden Plains Unified,15466.58,Unified
+104,Sierra Unified,14413.77,Unified
+105,Riverdale Joint Unified,13757.01,Unified
+106,Caruthers Unified,12483.34,Unified
+107,Washington Unified,14187.3,Unified
+111,Princeton Joint Unified,16275.6,Unified
+112,Stony Creek Joint Unified,30102.17,Unified
+113,Willows Unified,9809.8,Unified
+114,Orland Joint Unified,12112.79,Unified
+115,Hamilton Unified,11459.82,Unified
+117,Northern Humboldt Union High,14543.06,High
+124,Fortuna Union High,13306.82,High
+130,Klamath-Trinity Joint Unified,21840.37,Unified
+141,Southern Humboldt Joint Unified,13687.42,Unified
+143,Ferndale Unified,14632.01,Unified
+144,Mattole Unified,34830.87,Unified
+145,Eureka City Unified,12578.03,Unified
+148,Brawley Union High,13767.88,High
+149,Calexico Unified,13416.99,Unified
+150,Calipatria Unified,14587.3,Unified
+151,Central Union High,13232.1,High
+154,Holtville Unified,12918.36,Unified
+155,Imperial Unified,11204.9,Unified
+160,San Pasqual Valley Unified,23370.82,Unified
+163,Big Pine Unified,28506.12,Unified
+164,Death Valley Unified,51755.83,Unified
+165,Lone Pine Unified,16910.13,Unified
+166,Owens Valley Unified,26920.62,Unified
+168,Bishop Unified,11830.63,Unified
+178,Delano Joint Union High,14140.48,High
+186,Kern High,13689.28,High
+194,Maricopa Unified,20294.8,Unified
+197,Mojave Unified,12883.01,Unified
+198,Muroc Joint Unified,11382.27,Unified
+203,Southern Kern Unified,12550.55,Unified
+207,Taft Union High,22271.95,High
+208,Tehachapi Unified,10757.52,Unified
+211,Wasco Union High,12232.49,High
+213,Sierra Sands Unified,11817.97,Unified
+214,Mcfarland Unified,12621.94,Unified
+215,El Tejon Unified,12602.75,Unified
+218,Corcoran Joint Unified,12734.13,Unified
+220,Hanford Joint Union High,12895.83,High
+226,Lemoore Union High,12820.61,High
+228,Reef-Sunset Unified,13149.91,Unified
+229,Kelseyville Unified,13771.72,Unified
+230,Konocti Unified,13401.37,Unified
+231,Lakeport Unified,13333.13,Unified
+233,Middletown Unified,11240.03,Unified
+234,Upper Lake Unified,13531.93,Unified
+235,Big Valley Joint Unified,19904.28,Unified
+238,Lassen Union High,13286.89,High
+243,Westwood Unified,15763.03,Unified
+244,Fort Sage Unified,18632.49,Unified
+245,ABC Unified,11677.69,Unified
+246,Antelope Valley Union High,13949.95,High
+247,Arcadia Unified,11638.45,Unified
+248,Azusa Unified,14218.36,Unified
+249,Baldwin Park Unified,13846.59,Unified
+250,Bassett Unified,13004.46,Unified
+251,Bellflower Unified,12911.64,Unified
+252,Beverly Hills Unified,19758.59,Unified
+253,Bonita Unified,11091.38,Unified
+254,Burbank Unified,11632.72,Unified
+256,Centinela Valley Union High,16151.37,High
+257,Charter Oak Unified,12507.51,Unified
+258,Claremont Unified,11502.55,Unified
+259,Covina-Valley Unified,13064.27,Unified
+260,Culver City Unified,11615.98,Unified
+261,Downey Unified,12831.07,Unified
+262,Duarte Unified,13335.83,Unified
+266,El Monte Union High,14921.72,High
+267,El Rancho Unified,12466.59,Unified
+268,El Segundo Unified,11609.22,Unified
+270,Glendale Unified,12299.97,Unified
+271,Glendora Unified,11469.59,Unified
+276,Inglewood Unified,14649.16,Unified
+278,La Canada Unified,11554.15,Unified
+280,Las Virgenes Unified,11323.3,Unified
+284,Long Beach Unified,13153.9,Unified
+285,Los Angeles Unified,15919.68,Unified
+288,Lynwood Unified,13466.09,Unified
+289,Monrovia Unified,13080.47,Unified
+290,Montebello Unified,13362.39,Unified
+293,Norwalk-La Mirada Unified,13418.23,Unified
+295,Palos Verdes Peninsula Unified,11737.53,Unified
+296,Paramount Unified,13260.23,Unified
+297,Pasadena Unified,14038.92,Unified
+298,Pomona Unified,13568.93,Unified
+300,San Marino Unified,13984.49,Unified
+301,Santa Monica-Malibu Unified,15635.72,Unified
+303,South Pasadena Unified,10788.06,Unified
+306,Temple City Unified,10712.07,Unified
+307,Torrance Unified,10980.14,Unified
+309,West Covina Unified,14455.05,Unified
+312,Whittier Union High,14560.33,High
+313,William S. Hart Union High,11945.38,High
+315,Compton Unified,14648.52,Unified
+316,Hacienda La Puente Unified,12276.18,Unified
+317,Rowland Unified,12964.58,Unified
+318,Walnut Valley Unified,10481.3,Unified
+319,San Gabriel Unified,12874.11,Unified
+320,Acton-Agua Dulce Unified,14260.0,Unified
+321,Manhattan Beach Unified,13848.2,Unified
+322,Redondo Beach Unified,10722.62,Unified
+323,Alhambra Unified,13208.74,Unified
+324,Wiseburn Unified,11504.58,Unified
+328,Chowchilla Union High,12570.99,High
+329,Madera Unified,12480.6,Unified
+331,Golden Valley Unified,10958.91,Unified
+332,Chawanakee Unified,13018.32,Unified
+333,Yosemite Unified,12771.33,Unified
+343,Novato Unified,12839.63,Unified
+347,San Rafael City High,14952.71,High
+349,Tamalpais Union High,19695.18,High
+350,Shoreline Unified,29742.11,Unified
+352,Mariposa County Unified,13383.92,Unified
+353,Anderson Valley Unified,17472.17,Unified
+354,Fort Bragg Unified,13973.08,Unified
+356,Mendocino Unified,17492.03,Unified
+357,Round Valley Unified,20890.6,Unified
+358,Ukiah Unified,13448.0,Unified
+359,Willits Unified,14385.37,Unified
+360,Potter Valley Community Unified,16195.64,Unified
+361,Laytonville Unified,16874.18,Unified
+362,Leggett Valley Unified,21807.51,Unified
+363,Arena Union Elementary/Point Arena Joint Union High ,22151.1,Comm admin dist
+367,Hilmar Unified,12196.73,Unified
+369,Le Grand Union High,15588.13,High
+371,Los Banos Unified,11820.85,Unified
+374,Merced Union High,13830.3,High
+380,Gustine Unified,12443.82,Unified
+382,Dos Palos Oro Loma Joint Unified,13324.65,Unified
+383,Delhi Unified,13260.91,Unified
+384,Surprise Valley Joint Unified,16280.06,Unified
+385,Modoc Joint Unified,11383.17,Unified
+386,Tulelake Basin Joint Unified,16023.46,Unified
+387,Eastern Sierra Unified,26630.88,Unified
+388,Mammoth Unified,12300.62,Unified
+391,Carmel Unified,23849.61,Unified
+396,South Monterey County Joint Union High,13656.95,High
+399,Monterey Peninsula Unified,13070.7,Unified
+400,Pacific Grove Unified,17747.41,Unified
+402,Salinas Union High,12821.91,High
+409,North Monterey County Unified,13358.93,Unified
+410,Big Sur Unified,83877.3,Unified
+411,Soledad Unified,13088.38,Unified
+412,Gonzales Unified,13450.37,Unified
+413,Calistoga Joint Unified,19945.51,Unified
+415,Napa Valley Unified,12287.39,Unified
+417,Saint Helena Unified,26594.39,Unified
+422,Nevada Joint Union High,15659.86,High
+428,Anaheim Union High,12707.08,High
+429,Brea-Olinda Unified,10039.44,Unified
+431,Capistrano Unified,10491.2,Unified
+436,Fullerton Joint Union High,11862.27,High
+437,Garden Grove Unified,12964.45,Unified
+439,Huntington Beach Union High,12631.11,High
+440,Laguna Beach Unified,20877.7,Unified
+443,Newport-Mesa Unified,14895.2,Unified
+445,Orange Unified,11526.13,Unified
+446,Placentia-Yorba Linda Unified,10950.97,Unified
+447,Santa Ana Unified,13911.59,Unified
+450,Saddleback Valley Unified,11601.89,Unified
+451,Tustin Unified,10744.32,Unified
+452,Irvine Unified,10998.69,Unified
+453,Los Alamitos Unified,11472.38,Unified
+464,Placer Union High,12896.24,High
+466,Roseville Joint Union High,12137.94,High
+467,Tahoe-Truckee Unified,18907.41,Unified
+468,Western Placer Unified,10991.92,Unified
+469,Rocklin Unified,11035.69,Unified
+470,Plumas Unified,15872.74,Unified
+471,Alvord Unified,13328.46,Unified
+472,Banning Unified,13655.72,Unified
+473,Beaumont Unified,11384.42,Unified
+474,Corona-Norco Unified,11299.41,Unified
+475,Desert Center Unified,48426.57,Unified
+476,Desert Sands Unified,13255.91,Unified
+477,Hemet Unified,13594.95,Unified
+478,Jurupa Unified,12378.61,Unified
+480,Moreno Valley Unified,13688.62,Unified
+482,Palm Springs Unified,14701.08,Unified
+483,Palo Verde Unified,12712.45,Unified
+485,Perris Union High,13625.97,High
+486,Riverside Unified,12882.42,Unified
+488,San Jacinto Unified,12859.05,Unified
+489,Coachella Valley Unified,14027.65,Unified
+490,Lake Elsinore Unified,12262.26,Unified
+491,Temecula Valley Unified,10624.32,Unified
+492,Murrieta Valley Unified,10841.47,Unified
+493,Val Verde Unified,12156.51,Unified
+495,Elk Grove Unified,12222.42,Unified
+497,Folsom-Cordova Unified,11460.53,Unified
+499,Galt Joint Union High,13440.36,High
+500,River Delta Joint Unified,12864.13,Unified
+502,Sacramento City Unified,13687.33,Unified
+503,San Juan Unified,12717.08,Unified
+504,Center Joint Unified,12644.13,Unified
+505,Natomas Unified,12511.5,Unified
+506,Twin Rivers Unified,14094.68,Unified
+513,San Benito High,12517.19,High
+517,Aromas - San Juan Unified,12262.15,Unified
+520,Barstow Unified,12802.79,Unified
+521,Bear Valley Unified,12016.04,Unified
+523,Chaffey Joint Union High,12964.9,High
+524,Chino Valley Unified,10706.63,Unified
+525,Colton Joint Unified,12389.64,Unified
+528,Fontana Unified,14069.06,Unified
+530,Morongo Unified,13073.87,Unified
+533,Needles Unified,13569.42,Unified
+536,Redlands Unified,11782.29,Unified
+537,Rialto Unified,13555.81,Unified
+538,Rim of The World Unified,11868.85,Unified
+539,San Bernardino City Unified,15490.66,Unified
+540,Trona Joint Unified,28011.2,Unified
+542,Victor Valley Union High,13934.12,High
+543,Yucaipa-Calimesa Joint Unified,11629.2,Unified
+544,Baker Valley Unified,21882.96,Unified
+545,Silver Valley Unified,14901.51,Unified
+546,Snowline Joint Unified,12549.47,Unified
+547,Hesperia Unified,12266.53,Unified
+548,Lucerne Valley Unified,16191.95,Unified
+549,Upland Unified,11721.81,Unified
+550,Apple Valley Unified,12696.75,Unified
+552,Borrego Springs Unified,17652.3,Unified
+556,Coronado Unified,13593.31,Unified
+561,Escondido Union High,14773.4,High
+563,Fallbrook Union High,14846.94,High
+564,Grossmont Union High,14715.58,High
+567,Julian Union High,28936.4,High
+571,Mountain Empire Unified,14332.51,Unified
+573,Poway Unified,11284.12,Unified
+574,Ramona City Unified,11282.96,Unified
+576,San Diego Unified,13888.1,Unified
+577,San Dieguito Union High,11678.29,High
+584,Sweetwater Union High,12733.27,High
+586,Vista Unified,13620.25,Unified
+587,Carlsbad Unified,11148.85,Unified
+588,Oceanside Unified,12841.61,Unified
+589,San Marcos Unified,11292.92,Unified
+590,Warner Unified,22628.41,Unified
+591,Valley Center-Pauma Unified,12152.38,Unified
+592,Bonsall Unified,9644.65,Unified
+593,San Francisco Unified,16370.56,Unified
+595,Escalon Unified,10436.22,Unified
+597,Lincoln Unified,11749.44,Unified
+598,Linden Unified,11896.71,Unified
+599,Lodi Unified,12377.21,Unified
+600,Manteca Unified,11692.57,Unified
+604,Ripon Unified,10313.04,Unified
+605,Stockton Unified,15168.45,Unified
+606,Tracy Joint Unified,11621.15,Unified
+607,Lammersville Joint Unified,10135.87,Unified
+608,Atascadero Unified,11087.9,Unified
+610,Lucia Mar Unified,11517.82,Unified
+612,San Luis Coastal Unified,13290.54,Unified
+614,Shandon Joint Unified,15796.95,Unified
+615,Templeton Unified,10941.56,Unified
+616,Paso Robles Joint Unified,12262.56,Unified
+617,Coast Unified,21622.44,Unified
+622,Cabrillo Unified,12687.24,Unified
+625,Jefferson Union High,13382.67,High
+627,La Honda-Pescadero Unified,22285.8,Unified
+637,San Mateo Union High,19357.75,High
+638,Sequoia Union High,19398.35,High
+639,South San Francisco Unified,12966.78,Unified
+645,Carpinteria Unified,14736.27,Unified
+651,Lompoc Unified,12226.17,Unified
+655,Santa Maria Joint Union High,13145.45,High
+656,Santa Ynez Valley Union High,13225.18,High
+659,Cuyama Joint Unified,18550.49,Unified
+660,Santa Barbara Unified,13196.88,Unified
+665,Campbell Union High,13730.63,High
+667,East Side Union High,13400.28,High
+670,Fremont Union High,15628.96,High
+671,Gilroy Unified,12260.3,Unified
+676,Los Gatos-Saratoga Joint Union High,17141.14,High
+679,Morgan Hill Unified,11555.58,Unified
+681,Mountain View-Los Altos Union High,23072.45,High
+685,Palo Alto Unified,22875.86,Unified
+686,San Jose Unified,12362.8,Unified
+687,Santa Clara Unified,19129.06,Unified
+691,Milpitas Unified,11632.43,Unified
+692,Santa Cruz City Elementary/High,14532.9,Comm admin dist
+698,Pajaro Valley Unified,15341.63,Unified
+699,San Lorenzo Valley Unified,12503.13,Unified
+701,Scotts Valley Unified,10289.8,Unified
+702,Anderson Union High,13184.07,High
+710,Fall River Joint Unified,14524.98,Unified
+723,Shasta Union High,13934.58,High
+726,Gateway Unified,14066.75,Unified
+727,Sierra-Plumas Joint Unified,15340.83,Unified
+733,Dunsmuir Joint Union High,32797.03,High
+746,Siskiyou Union High,16972.19,High
+750,Yreka Union High,15638.29,High
+751,Butte Valley Unified,14913.67,Unified
+752,Scott Valley Unified,13861.12,Unified
+753,Benicia Unified,10754.99,Unified
+754,Dixon Unified,12043.06,Unified
+755,Fairfield-Suisun Unified,10780.01,Unified
+756,Travis Unified,11045.22,Unified
+757,Vacaville Unified,11237.04,Unified
+758,Vallejo City Unified,13798.39,Unified
+759,Petaluma City Elementary/Joint Union High,12476.85,Comm admin dist
+760,Santa Rosa City Schools,13575.87,Comm admin dist
+762,West Sonoma County Union High,13077.69,High
+766,Cloverdale Unified,13617.6,Unified
+770,Geyserville Unified,19081.13,Unified
+787,Sonoma Valley Unified,14327.61,Unified
+794,Cotati-Rohnert Park Unified,12849.29,Unified
+795,Windsor Unified,12388.16,Unified
+796,Healdsburg Unified,16818.76,Unified
+797,Modesto City Schools,13242.99,Comm admin dist
+798,Ceres Unified,12215.48,Unified
+800,Denair Unified,13579.05,Unified
+808,Patterson Joint Unified,13217.4,Unified
+815,Newman-Crows Landing Unified,12835.52,Unified
+816,Hughson Unified,11179.11,Unified
+817,Riverbank Unified,15409.21,Unified
+818,Oakdale Joint Unified,10933.6,Unified
+819,Waterford Unified,12983.99,Unified
+820,Turlock Unified,12485.37,Unified
+823,East Nicolaus Joint Union High,11858.21,High
+825,Live Oak Unified,11895.27,Unified
+830,Sutter Union High,11253.05,High
+832,Yuba City Unified,12986.94,Unified
+835,Corning Union High,13118.7,High
+842,Los Molinos Unified,13845.31,Unified
+844,Red Bluff Joint Union High,13984.62,High
+853,Southern Trinity Joint Unified,28309.8,Unified
+854,Mountain Valley Unified,18099.87,Unified
+855,Trinity Alps Unified,15346.65,Unified
+857,Alpaugh Unified,14207.89,Unified
+862,Cutler-Orosi Joint Unified,13077.32,Unified
+869,Lindsay Unified,17222.9,Unified
+890,Tulare Joint Union High,13601.45,High
+891,Visalia Unified,11860.86,Unified
+894,Farmersville Unified,13707.79,Unified
+895,Porterville Unified,12509.4,Unified
+896,Dinuba Unified,12126.71,Unified
+897,Woodlake Unified,13189.85,Unified
+898,Exeter Unified,12340.62,Unified
+904,Sonora Union High,13910.67,High
+907,Summerville Union High,17977.39,High
+909,Big Oak Flat-Groveland Unified,18813.33,Unified
+911,Fillmore Unified,12867.43,Unified
+916,Ojai Unified,11470.07,Unified
+918,Oxnard Union High,12540.93,High
+922,Simi Valley Unified,11272.05,Unified
+924,Ventura Unified,11501.5,Unified
+925,Conejo Valley Unified,10739.11,Unified
+926,Oak Park Unified,10347.16,Unified
+927,Moorpark Unified,10609.83,Unified
+928,Santa Paula Unified,13417.41,Unified
+929,Davis Joint Unified,12864.8,Unified
+930,Esparto Unified,14150.11,Unified
+931,Washington Unified,12474.61,Unified
+932,Winters Joint Unified,12663.76,Unified
+933,Woodland Joint Unified,12175.13,Unified
+935,Marysville Joint Unified,11837.24,Unified
+938,Wheatland Union High,12435.17,High
